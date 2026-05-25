@@ -1,5 +1,5 @@
 export interface UsersMessage{
-    id: string;
+    _id: string;
     mass: string;
     author: string;
     datetime: string;
