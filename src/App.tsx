@@ -99,7 +99,7 @@ export const App = () => {
                         Сhat Workspace
                     </Typography>
                     <Typography variant="body2" sx={{ color: '#64748b', fontWeight: 500 }}>
-                        Актуальные сообщения в реальном времени
+                        Свежие мысли участников
                     </Typography>
                 </Box>
                 <MessageForm onSendMessage={handleSendMessage} />
